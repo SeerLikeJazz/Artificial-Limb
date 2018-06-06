@@ -1,0 +1,3 @@
+修改通道数
+config.c   const uint8_t IsChannelOpen[8]={ON,ON,ON,ON,ON,ON,ON,ON};
+config.h   #define EmgChannel 8 
